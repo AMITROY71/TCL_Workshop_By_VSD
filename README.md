@@ -31,5 +31,24 @@ Libraries (associated with TCL)
 ## case 3: Type "-help" to find out usage
 <img width="920" alt="image" src="https://github.com/user-attachments/assets/97a20010-7131-48ce-a380-adc7d7cfe912" />
 
+# Day 2: Variable Creation and Processing Constraints from CSV
 
+Agenda will be converting all inputs into the required format i.e. format[1] & SDC format & passing it to the tool YOSYS.
+
+Tasks involved
+
+1. Create variables
+
+2. To check if directories & files are mentioned in the .csv exist or not
+
+3. Read constraint file for the above .csv & convert it to sdc format
+
+4. Read all files in netlist directory
+
+5. Create the main synthesis script in format [2]
+
+6. Pass this script to Yosys
+
+The below snapshot shows step 1 i.e. creating the variables
+<img width="875" alt="image" src="https://github.com/user-attachments/assets/3eea99f3-9c9e-44b2-8bc0-dae7e077dfda" />
 
