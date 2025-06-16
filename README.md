@@ -29,6 +29,7 @@ Libraries (associated with TCL)
 <img width="317" alt="image" src="https://github.com/user-attachments/assets/fdf31ab0-43e2-4205-82ce-f4467febc028" />
 
 ## case 3: Type "-help" to find out usage
+<img width="920" alt="image" src="https://github.com/user-attachments/assets/97a20010-7131-48ce-a380-adc7d7cfe912" />
 
 
 
